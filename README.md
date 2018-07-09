@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Course Projectless 
+# Getting and Cleaning Data Course Project
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data collected from the accelerometers from the Samsung Galaxy S smartphone is descripted in the next site:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
